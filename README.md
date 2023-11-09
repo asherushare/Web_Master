@@ -19,8 +19,7 @@ Share Your Insights:
 
 If you have suggestions, insights, or resources to recommend, don't hesitate to reach out. Collaboration and feedback are vital for continuous improvement, and I welcome input from fellow web development enthusiasts.
 
-Stay Committed:
-
-Consistency is the key to mastering the art of full-stack web development. Together, we'll celebrate the small victories and overcome challenges on our quest to becoming proficient web developers.
+Stay Committed: 
+  Consistency is the key to mastering the art of full-stack web development. Together, we'll celebrate the small victories and overcome challenges on our quest to becoming proficient web developers.
   
 </p>
