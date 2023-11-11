@@ -1,7 +1,8 @@
 # Web_Master
 Here lies the chronicles of my coding adventures as I delve into the world of web development. Expect a mix of triumphs, challenges, and a growing collection of code snippets. Join me on this exciting ride through the realm of HTML, CSS, JavaScript, and beyond.
 <br>
-<p>Welcome to my Daily Full Stack Web Development Journey! This GitHub repository serves as a dedicated space where I document and share my daily progress in the exciting world of full-stack web development. As I embark on this educational journey, I'll be learning and implementing various technologies, tools, and best practices.
+<p>
+  Welcome to my Daily Full Stack Web Development Journey! This GitHub repository serves as a dedicated space where I document and share my daily progress in the exciting world of full-stack web development. As I embark on this educational journey, I'll be learning and implementing various technologies, tools, and best practices.
 
 Key Objectives:
 
@@ -19,7 +20,7 @@ Share Your Insights:
 
 If you have suggestions, insights, or resources to recommend, don't hesitate to reach out. Collaboration and feedback are vital for continuous improvement, and I welcome input from fellow web development enthusiasts.
 
-Stay Committed: 
-  Consistency is the key to mastering the art of full-stack web development. Together, we'll celebrate the small victories and overcome challenges on our quest to becoming proficient web developers.
-  
+Stay Committed:
+
+Consistency is the key to mastering the art of full-stack web development. Together, we'll celebrate the small victories and overcome challenges on our quest to becoming proficient web developers.
 </p>
