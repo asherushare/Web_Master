@@ -11,5 +11,107 @@
     <p>&copy;</p>
     <p>&reg;</p>
   </div>
+  <hr>
+  <div>
+    <table border="black">
+      <caption>Student Information</caption>
+      <tr>
+        <td rowspan="6">Info</td>
+        <td rowspan="2">Name</td>
+        <td colspan="2">Address</td>
+      </tr>
+      <tr>
+        <td>City</td>
+        <td>House</td>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td>Delhi</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>Mumbai</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>Kolkata</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>D</td>
+        <td>Pune</td>
+        <td>4</td>
+      </tr>
+    </table>
+  </div>
+  <hr>
+  <div>
+    <form action="/server">
+      <div>
+        <label for="name">Name</label>
+        <input type="text" id="name">
+      </div>
+      <div>
+        Sex:
+        <input type="radio" id="male" name="sex" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="sex" value="female">
+        <label for="female">Female</label>
+      </div>
+      <div>
+        <label for="op">Country:</label>
+        <select name="" id="op">
+          <option value="ws">Select an option</option>
+          <option value="w">2nd option</option>
+        </select>
+      </div>
+      <div>
+        <label for="area">Message:</label>
+        <textarea name="" id="area" cols="30" rows="0"></textarea>
+      </div>
+      <div>
+        <input type="checkbox" id="check">
+        <label for="check">Subcribe?</label>
+      </div>
+      <div>
+        <button>Submit</button>
+      </div>
+    </form>
+  </div>
+  <hr>
+  <div>
+    <form action="/server">
+      <div>
+        <h1>Feedback Form</h1>
+      </div>
+      <div>
+        <label for="name">name</label>
+        <input type="text" id="name" placeholder="Write your name">
+      </div>
+      <div>
+        <label for="mail">Email</label>
+        <input type="text" id="mail" placeholder="Write your mail">
+      </div>
+      <div>
+        <label for="mess">Message;</label><br>
+        <textarea name="" id="mess" cols="20" rows="5"></textarea>
+      </div>
+      <div>
+        Rate us our of 5:<br>
+        <input type="radio" id="1" name="r" value="1">
+        <label for="1">1</label>
+        <input type="radio" id="2" name="r" value="2">
+        <label for="2">2</label>
+        <input type="radio" id="3" name="r" value="3">
+        <label for="3">3</label>
+        <input type="radio" id="4" name="r" value="4">
+        <label for="4">4</label>
+      </div>
+      <br>
+      <button>Send your message!</button>
+    </form>
+  </div>
 </body>
 </html>
