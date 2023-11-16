@@ -1,0 +1,21 @@
+h1{
+  color: rgb(7, 89, 89);
+}
+
+.userbtn{
+  background-color: rgb(7, 89, 89);
+  color: white;
+}
+
+label{
+  color: rgb(115, 21, 129);
+}
+
+#searchbtn{
+  background-color: black;
+  color: white;
+}
+
+*{
+  font-family: courier new;
+}

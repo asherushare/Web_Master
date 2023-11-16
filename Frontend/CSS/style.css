@@ -1,0 +1,31 @@
+/* p{
+  color: red;
+}
+
+h3{
+  background-color: blue;
+
+} */
+
+h1{
+  text-align: center;
+  border: solid;
+  width: 50%;
+  text-decoration:wavy red underline;
+  letter-spacing: normal;
+}
+
+p{
+  text-align: justify;
+  line-height: normal;
+
+}
+
+h3{
+  font-weight: normal;
+  text-decoration: overline;
+}
+
+a{
+  text-decoration: line-through;
+}
