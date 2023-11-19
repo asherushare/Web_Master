@@ -1,0 +1,61 @@
+h3{
+  font-style: inherit;
+  text-align: center;
+}
+
+div{
+  text-align: center;
+  margin: 30px 30px;
+}
+
+.traffic-light{
+  /* border-radius: 600px; */
+  border-width: 300px;
+  border: 3px solid black;
+  margin: 30px 30px;
+  /* padding: 8%; */
+  height:200px;
+  width: 70px;
+  align-items: center;
+}
+
+.light{
+  /* background-color: red; */
+  height: 50px;
+  width: 50px;
+  /* padding: 10px 10px 10px 10px; */
+  border-radius: 50px;
+  border-radius: circle;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+#red{
+  background-color: red;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#green{
+  background-color: green;
+}
+
+/* .yellow{
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.green{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: green;
+  border: 2px solid black;
+  margin:10px;
+} */
