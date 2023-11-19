@@ -59,3 +59,11 @@ div{
   border: 2px solid black;
   margin:10px;
 } */
+
+.test{
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+  background-color: lime;
+  display: inline-block;
+}
