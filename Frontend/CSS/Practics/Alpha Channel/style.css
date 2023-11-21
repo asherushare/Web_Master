@@ -1,0 +1,13 @@
+.test{
+  height: 200px;
+  width: 200px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#new{
+  background-color: pink;
+  height: 200px;
+  width: 200px;
+  opacity: 0.5;
+
+}

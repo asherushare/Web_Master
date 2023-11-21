@@ -1,0 +1,59 @@
+*{
+  background-image: url(pic.jpg);
+  background-size: cover;
+}
+
+#cover{
+  background-color: rgb(112, 216, 173);
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  transition: 1s;
+  margin: 15px;
+}
+
+#cover:hover{
+  background-color: rgb(255, 0, 217);
+  box-shadow: 8px 5px 8px mediumblue;
+}
+
+#cover1{
+  background-color: palevioletred;
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+  transition: 1s;
+  margin-top: 20px;
+  border-radius: 5%;
+}
+
+#cover1:hover{
+  background-color: blue;
+  border-radius: 50%;
+  margin-top: 150px;
+  transform: rotate(60deg);
+}
+
+.one{
+  transform: rotate(15deg
+  );
+  border-color: black;
+  width: 150px;
+  height: 70px;
+  background-color: blueviolet;
+  margin: 10px
+}
+
+.one:hover{
+  transform: rotate(180deg);
+  transform: skew(30deg);
+}
+
+.one:nth-of-type(2n){
+  background-color: limegreen;
+}
+
+.one:nth-of-type(3n){
+  background-color: palevioletred;
+}
+
