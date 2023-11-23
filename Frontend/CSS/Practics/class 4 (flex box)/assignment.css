@@ -1,0 +1,45 @@
+#main{
+  width: 400px;
+  height: 400px;
+  border:2px solid black;
+  /* border-width: 10px; */
+  /* background-color: lime; */
+  /* flex-direction: row;
+  justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  /* justify-content: center; */
+  /* justify-content: space-between; */
+}
+
+
+.small{
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  font-size: 50px;
+  text-align: center;
+  /* display: flex;
+  flex-direction: row; */
+  /* justify-content: center; */
+  align-content: center;
+}
+
+
+
+#head{
+  background-color: grey;
+}
+
+
+#line{
+  display: inline-block;
+}
+
+
+.line2{
+  display: inline-block;
+  margin: 10px;
+}

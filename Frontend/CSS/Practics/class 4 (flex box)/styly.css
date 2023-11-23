@@ -1,0 +1,41 @@
+
+.para{
+  height: 200px;
+  width: 450px;
+  display: flex;
+  /* flex-direction: row; */
+  border: 2px solid black;
+  flex-direction: column;
+  justify-content: center;
+  /* justify-content: space-around; */
+  flex-wrap: wrap-reverse;
+  align-items: center;
+}
+
+
+#div1{
+  background-color: lime;
+  height: 50px;
+  width: 50px;
+  /* margin: 2%; */
+  /* display: inline-block; */
+}
+
+
+#div2{
+  background-color: #3c00ff;
+  height: 50px;
+  width: 50px;
+  /* margin: 2%; */
+  /* display: inline-block; */
+}
+
+
+#div3{
+  background-color: #ff00b3;
+  height: 50px;
+  width: 50px;
+  /* margin: 2%; */
+  /* display: flex; */
+  /* display: inline-block; */
+}
