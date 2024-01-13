@@ -126,3 +126,17 @@ function outerFunc() {
   }
 }
 
+// For each
+
+let arr = [1, 2, 3, 4, 5];
+
+let print = function(el) {
+  console.log(el);
+}
+
+arr.forEach(print);
+
+let nums = [2, 3, 4, 3];
+let finalVal = nums.reduce((res, el) => res + el);
+console.log(finalVal);
+
