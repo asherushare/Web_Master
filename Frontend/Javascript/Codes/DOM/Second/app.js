@@ -21,13 +21,34 @@
 // newP.innerText = "hi, I am new p";
 
 
-let smallImages = document.getElementsByClassName("oldImg");
+// let smallImages = document.getElementsByClassName("oldImg");
 
-for(let i = 0; i < smallImages.length; i++) {
-  console.dir(smallImages[i].src);
-}
+// for(let i = 0; i < smallImages.length; i++) {
+//   console.dir(smallImages[i].src);
+// }
 
-console.log("Patra");
+// console.log("Patra");
 
 
 // getElementByClassName  continues...
+
+// selecting by tagName
+
+
+// console.log(document.getElementsByTagName("p"));
+
+// // Query Selectors
+
+// console.log(document.querySelectorAll("h1"));
+// console.log(document.querySelector(".oldImg"));
+
+// Using Properties & Methods
+
+// Inner Text
+// Shows the visible text contained in a node
+
+// textContent
+// Shows all the full text
+
+//innerText
+// Shows the full markup

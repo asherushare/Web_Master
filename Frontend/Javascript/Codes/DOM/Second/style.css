@@ -1,4 +1,12 @@
-body {
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+/* body {
   font-family: Arial;
 }
 
@@ -38,4 +46,4 @@ body {
 .box2 a {
   text-decoration: none;
   color: blue;
-} */
+} */ 
