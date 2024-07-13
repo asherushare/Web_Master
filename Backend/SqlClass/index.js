@@ -4,9 +4,14 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection ({
   host: localhost,
   user: 'root',
-  database: 'test'
+  database: 'new_app',
+  password: 'Patra@9090'
 });
 
+connection.query("SHOW TABLES"(err, result) => {
+  if(err) throw err;
+  console.log(result);
+})
 
 let createRandomUser = () => {
   return {
